@@ -1,0 +1,14 @@
+[
+  {
+    "name" : "index",
+    "path" : "/"
+  },
+  {
+    "name" : "user",
+    "path" : "/user"
+  },
+  {
+    "name" : "game",
+    "path" : "/game"
+  }
+]
