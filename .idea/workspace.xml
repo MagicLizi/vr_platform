@@ -2,6 +2,339 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2e89fc6-d9c2-4f34-bca0-061149ea0aeb" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/format" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/01/012e9b4f02cbeff0bfb9f7e5883f316a490553dd.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/01/018cdfe5caee53dc8b68c6cf3a1da8e526090b69.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/02/02cc330b7dcaa37418a595aed617d9fb2742f5de.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/04/04065be10bce21d8c34d710abdda83872fce3be9.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/04/04491ea7e7e2c45bed60e72ac29300c6ff0f7c9d.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/08/08f6dfe48dbe7c190b9697cd6791dc34d4c8c7eb.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/09/092d12ac0ee6ff04e3ce9938ef35f12c6d0236f0.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/0a/0af879143e208e1b561b5bf0fcf1dde4cf07f4bb.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/0b/0b01ecb9f79724cd56f2ebc4e6f1a5cc6a7c2e60.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/0c/0c3b602815b6e4c07a9cd7d737d8a3798e70d454.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/0d/0d0af2e2d94f36123487468b4b0180919a90fe56.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/0f/0f16b68cd0772ec71240181b48df2f8afe906832.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/0f/0f4893d6845779cbaa4f2d1eec2489e01c5397ab.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/11/114f73a260a114cac8b3327c125abaa26443bfff.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/11/11c3372aca311f9c9a9d582ee9f5221afe7dd69d.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/11/11e506a1fc3e7570cacbccc985e68af78097ea3a.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/12/12b3681b5b5c8b206e34c9987ca005f23a51afa6.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/13/13c6d419fe615f84bbf3e6c008d4ab44315312a7.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/13/13d573438612408ac373ba85e58a6e51bc0f166d.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/14/1408fed0c29ecac789028f2e12ca81d15a4bfe92.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/15/15f98b9711fc1665d7e6e809f199f799b2a10b8b.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/16/16cf7c5b71b8c36deed6221bef1f99998536618b.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/19/192c5d00b96cab8c347f476bf2dfde1bd05e8851.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/1e/1e6ae9c705bf9872ff10919db5616296612ace7b.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/1e/1e8c531eac126a1ddf58e9f78bda75e85c016431.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/1e/1ecc26cc0ca4abde8ea8b9ae183bbdb2b4924903.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/1f/1fc029c29ad825de56270bc9a85bfb1bc79508ae.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/22/22037a3455914e5662fa51a596677bdb329e2c5c.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/22/228749ead05e1bf459102aef91ff64efdfe9ce92.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/26/26af7692fb2f97c3611691657c716100ff21eddb.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/2c/2cbe3b13bc891f3a8c365480ac6819a6861eae9a.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/2d/2daeaa8b5f19f0bc209d976c02bd6acb51b00b0a.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/2d/2df9acef6c5e70d537ad68ed9104c3495fc88f13.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/2e/2e42773df429aaa7727ee17e5b57ba5a8679624c.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/2e/2ede10806d484c2920ea60e589fa66cd040f7efd.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/2f/2fb2963ca13d8e2dff6bc71e9ead9b0fdc686cd0.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/30/304f5c8fa09674935eed03938fcd936bdc851d59.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/30/30bad01a69819f5a4e4c05bfcfb8ce3871cb7e74.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/34/34eab053abdc4b3160db3a98d3595263eecb95ad.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/36/36765af55fcce4dd07b750dbbf5e13aade3b3504.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/37/37b814e0da82c0e10d343155714ca0ae089bfe96.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/37/37dc7e6b67efaf24028622c60520b053402a3667.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/38/380696ddd38b1e422aba517986b1d020aa5497ae.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/39/3907bf221f6d2f4d3c0878e93c1a4c88f5a46740.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/39/399de6135ff6e8e0123fed152cd71e10b90d88b4.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/39/39ceac60cac0a577b0d666ba5d8db4d64d71f025.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/3a/3a5e2369795a7cda162bc83f26e13531662ce3a5.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/3a/3a61d744fb6af78cae631a88b4788901a6a91f7c.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/3b/3b5bd5708e7ee5bd089e7fe6dce0cd9fb10da935.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/3d/3d9a6bd428942f8f51b5add458e4709599d9a083.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/40/4059796d8644f97e3dffe0f86cdcf9941afc237d.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/42/4240dabdc746a36bae8a56eeec04a3a3fc59d842.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/42/426af16284ffbad37b174baee64744f98c0b3544.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/45/45d43b9967df2a31a30b90046e2cb28ed74dfe66.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/48/48e49fc4d90bed145f5ffa8b364ffad7bd6c2715.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/49/4953fcc346c1d11b2d008e0a387835e1830f99df.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/4a/4a98597307e81089ee13038183d496c7591c1fe8.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/4b/4b4391b79cd4d0bab81d5206dd2e791d0af426ea.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/4c/4c15124043d9b234fc9e18a090cd54661123b3a1.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/4c/4c92d3a40ff66f72a9ec9b29e84d3236bf51cbd4.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/4c/4ca73fd67ea1dd67854491485ba5b0924a00afac.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/4d/4d958b8e9e654cf77b1076c7d707ae8efcdbfed5.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/4d/4dbaf4e11d45156e4f12f32b1d367058eb735403.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/4d/4dc338a8d296d4bf5976cdc82292ffc752b94c37.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/4d/4dc419286e3502626c4b2a4c9850409a448a6e59.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/4e/4eb81dc7367f85cb81344832184091edcf0a2cac.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/4e/4eee0c941e541e1a18d006b7e742d24ddd23d274.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/4f/4f415467396b4a50149373ca75bcb4c04c2f60b6.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/57/572ab723203dfe21bfde225876bb853448698d26.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/58/58acc1f5b10ca2ea1bc41647234551000b9ff371.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/5e/5ea8b50f525564908511925a78f3271095a93ed3.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/62/62983690749753f69fa7bbe760b11feb6552f614.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/65/657ae6b734f1089ca890348851837d4e26b46276.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/66/66b1fc67e37d01ee45ca75c4eefb144d2dbe98fa.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/67/67eda9c09f78781c9b1c3b56be6577eeb8ea2d2e.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/68/6825d222cc50c80a39025da4cd9e0574aaf0bbf7.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/6a/6a24a366892d08f9e9d402df0549c925112e22ad.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/6f/6f01a43cedfbbb6e6b3bc37ef6fe6737a91fd399.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/6f/6fefe477038bfe78a8e6b00271f20f9e12eef335.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/70/70af8279e9692fa7a4b0f397dc66f29654093a8f.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/74/74398332ca9f878f911665ee3c523ad0b3eb8a4d.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/76/76276cf6d43441a4516032895c15df92b427e59e.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/77/773b8a0f0c6cbda10b0c2ba62fb53d323946e311.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/78/7878218e55006e6d14192f2e67ad65093831b033.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/78/78cf380864d7cbb4ffcbc3807a86cdb8d56dc309.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/7c/7c2d8a613cbf685e66dc6760d244f4fe02b934e3.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/7c/7cb848ae1a8048dda27b6cb1a636d0d499d3691e.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/7c/7cc7e36e30c07ad20d8650495e86f1eac3578c7a.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/83/83b3252952e1e8c98deb5e6eb64e150c594dd97b.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/84/84475859dc73667043170d359661f1a416a0f7e9.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/85/856bba36a81c569fbe7fa5dfd058145c202b66b1.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/87/878d358085f1e6ed1e9ec20ba4775a98878c12f3.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/8b/8b427aa790853047465a457c41dac9ec0195cbdd.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/8c/8ca7247c61390261130127fc101c79a784aeefe9.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/8d/8d9e5b9ecdb9c4a5fc35ff90a5d6be99b5174146.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/93/9367ccabea9f52d1de1d5a89c76285b673b3a4d8.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/94/947a109a3ee40ecb6f9ba120b07ca4f2fddd4e7e.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/99/9944f3452c9bcf2579dba88210138eeac99f6f0f.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/9a/9aac38790412d841fa180fbff8dc88e86e4e8129.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/9d/9d0d81879b0e204b966cd05ccdc04d5ebaa787a1.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/9d/9d608e625aaaaa2ba5bb50b763bfba32bdddc61b.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/9f/9f0057ac864d9e9be7870e1a461e90459f6aca05.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/9f/9f456d134c019a010c735c81b8f13102820dd814.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/a1/a1b70afd4b2682ab05d4e04b7aad3e60298a0dc7.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/a3/a37e3e1c638e26e5cc681e24e16080f808598bb0.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/a3/a3d5ac838b61d1b8231d91c7e5492771a452110a.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/a7/a75528937e56bbb39624dda45156097e92bc6d79.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/aa/aafafdc09404c4aa4447d7e898a2183def9cc1b1.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/ad/ad4f8d66aefe87b1ba5d97e22e514c8424578f3d.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/ad/adbda6ae60cd3b219acbd2aa8dfa3de9548b737c.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/b1/b1f9f672494b0e2567be9fe44539451721edf605.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/b4/b43d90208cd7c957bf4c325a79b69c655f76febd.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/b7/b75ae003f2f10a1d38e35a9799b6d2d5e1955332.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/b8/b8afa915083368f4038499fea2806ca0fd881f91.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/b9/b97a1ebdfe669f3fcc8931abd86a74572ae60b3f.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/ba/bab6ba2be47986b4d36d5812a540684597bcf165.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/bc/bcbff8a4701c52642b1161cd6eba20efbb0c0637.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/c0/c02a8603b8b6d15660ab91eb3941c00f94063cdb.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/c0/c08a2a7c2fc7673c7d68cb676b1ddf0ab4c22d70.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/c1/c191a6b9e0d7ef6d965d11e496ab388f3e6db29f.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/c5/c5a77e6865e732c1df3fb60aceb780f4d72b6de5.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/c6/c6c921701e9074d88ffeef3f5547caeab14d99a7.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/c8/c87e051278d2dc2379340ba2a504183a7c8e11b0.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/c9/c92f3eb0ad1c70371e177a4d7d741f90af3f902c.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/c9/c9896d8bd00f8539fe79e0ad5dc3d60fd4910273.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/ca/ca35b697d99cae4d1b60f2d60fcd37771987eb07.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/ca/ca572e3bf5bd20a0ccccbd67f8b764e102a5a68a.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/cd/cd41cf50514ce6b4045bc145efa20c8b6ceaa76e.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/ce/ceadc8d2818d74365c02027289faeab4b5830ebb.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/d3/d3259ed29b12ef76835e12ef1720eba617d03ea5.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/d6/d6c1f41972de07b09bfa63d2e50f9ab41ec372bd.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/d8/d831393d7038fe41b234cd77e4a4504430b4c389.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/da/da3a8ea9298fa9fed61978cb124569ca8eb0bf79.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/da/da6d949cefea588ea5788854eb8e2fc46e239b2e.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/da/da80073d7ee1deeaa1e7a643ff02e3875ef6fd70.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/dc/dc2299cf0f152cd3bcdae2c445677e52e72aad1e.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/de/de58dbbc3b4a83fdc74b4f8e2095ae95cb83780f.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/de/dea8f9b8c1611a335bc5d86d56119b3dc9b5c28d.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/df/dfb8410ffc10a57d69b81620087c5a0b6027765a.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/e0/e01b25664a06b95b1fe686755b0f5c13cd077b9f.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/e1/e14d6483c5cc89fcfbd81d716ec6160f211011d0.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/e2/e2ae64ebaa6414ca17da6bcf3927bb0a90901231.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/e3/e380bb0f718887ba15fa5a62e06c368f39095660.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/e3/e39f57c898ebe6317c719ed1b1bd7779d3078c6e.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/e4/e499b7a4c9b9ad999606ee66d082ef01aa89847f.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/e9/e994be895457e9712f1126db7890329691f96c63.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/eb/eb50ec8b4a950c0bdb2be5e13d088401053de19d.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/eb/ebb0c36d260c53308855da5b3b7d38b1f767d84b.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/eb/ebda3d2d73925feb52a464bc46e774c4ac6e8e7c.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/ec/ec527b76913676a75232d77b5084ad0f9234154e.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/ec/ecb83e9065835096d92df81ee5e76d05a3175e3e.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/ec/ecce7e6f213f5070104f7f0e6e8354d3a6c303b5.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/ed/ed933c45be71d3838a5641d6d26632ed66307618.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/ed/edede6253be5a9f5f2ee2c887f5c129f5d252f8c.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/ee/ee460c372eb27566bb84d31e54290039a75cf37a.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/ef/ef72b15960bada133263753483a2399c8c57b4bb.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/f2/f28bfdcc7eeadc4685a6b8061c7fc4eddebdbe0c.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/f3/f3a9a3b609133c3d21d6b42abbf7f43bd111df72.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/f4/f4b0f5e7542b85da62abfb9644d646ac11c1c74e.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/f5/f544f771727f9d3587a0aa2fc5e7df04e56294d2.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/f7/f78514fd36e03625bd7b2e0e50a03f16fd2ca528.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/fa/fa7d97a6d1a131702192383346d4f6fe97bb7ab2.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/fa/fa7fc8952237d5b852ba9799d1fe7d89760ff13a.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/fb/fb0f597917ea83c4acc1a35fc885ee10f1329fd1.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/ff/ff9dc22e79bb13b33acfc9c516f5f274af73cc71.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/pristine/ff/ffa4916d55473043c18ac9cc9829bd119fa7b5c0.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/wc.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/.svn/wc.db-journal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/bin/www" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/about.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/detail.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/empty.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/forget_password.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/help.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/news.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/register.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/ajax/common.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/ajax/detail.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/ajax/forget_password.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/ajax/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/ajax/login.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/ajax/register.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/ajax/user.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/ajax/user_edit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/css/fileinput.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/css/scojs.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/font/MotivaSans-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/font/MotivaSans-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/font/MotivaSans-Medium.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/font/MotivaSans-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/font/MotivaSans-Thin.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/font/motiva-sans-bold-italic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/font/motiva-sans-light-italic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/font/motiva-sans-regular-italic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/images/blank.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/images/blank.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/images/default_icon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/images/friendindicator_small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/images/globalheader_highlight.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/images/header_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/images/ico_coop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/images/ico_multiPlayer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/images/ico_singlePlayer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/images/page_bg_generated_v6b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/images/throbber.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/images/trans.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/js/fileinput.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/js/fileinput_locale_zh.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/js/sco.countdown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/js/sco.message.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/js/sys.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/271590/capsule_184x69.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/271590/header.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/299740/capsule_184x69.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/322330/capsule_184x69.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/329110/header.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/340270/header.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/341290/capsule_184x69.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/344850/capsule_184x69.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/357320/header.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/365360/header.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/365440/header.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/366590/header.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/374030/header.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/381210/capsule_184x69.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/385760/capsule_184x69.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/385760/header.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/408930/header.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/413410/capsule_184x69.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/413420/capsule_184x69.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/456610/capsule_184x69.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/456610/capsule_616x353.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/456610/header.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/462200/capsule_184x69.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/463140/capsule_184x69.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/466980/capsule_184x69.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/477720/capsule_184x69.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/491000/capsule_184x69.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/491000/header (1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/491000/header.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/503730/capsule_184x69.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/504370/capsule_184x69.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/509910/header.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/510630/capsule_184x69.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/510630/capsule_616x353.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/510630/header.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/517360/capsule_184x69_schinese.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/517360/capsule_616x353_schinese.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/517360/header.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/521340/header.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/526020/capsule_184x69.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/528010/capsule_184x69.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/530710/capsule_184x69.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/530710/capsule_616x353.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/530710/header.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/530890/capsule_184x69.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/532030/capsule_184x69.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/730/capsule_184x69.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/apps/8930/capsule_184x69.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/blank.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/communitylink/iconholder_ingame.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/communitylink/iconholder_offline.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/communitylink/iconholder_online.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/ico/ico_arrow_dn_for_select.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/v6/blue_top_center.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/v6/blue_top_repeat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/v6/btn_arrow_down_padded.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/v6/btn_arrow_down_padded_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/v6/close_btn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/v6/cluster_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/v6/colored_body_top.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/v6/customize_checkboxes.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/v6/discovery_queue_arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/v6/expand_btn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/v6/home/cluster_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/v6/home/maincap_placeholder_616x353.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/v6/home/tab_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/v6/icon_cluster_controls (1).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/v6/icon_cluster_controls.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/v6/icon_platform_htcvive.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/v6/icon_platform_linux.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/v6/icon_platform_mac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/v6/icon_platform_oculusrift.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/v6/icon_platform_win.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/v6/icon_steamplay.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/v6/icon_streamingvideo_v6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/v6/iconholder_offline.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/v6/spotlight_background.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/v6/store_header_search.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/v6/store_header_search_hover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/v6/tag_browse_header_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/v6/temp/cluster_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/resources/public/images/v6/temp/spotlight_weeklong_deals.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/service.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/stylesheets/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/user.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/public/user_edit.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/routes/game.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/routes/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/routes/user.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/views/error.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/views/index.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/z_configs/domain.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/z_configs/mysql.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/z_configs/route.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/z_controls/gameControl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/z_controls/userControl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/z_middles/backFilter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/z_middles/errorFilter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/z_middles/frontFilter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/z_middles/requestFilter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/z_models/netData.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/z_util/code.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/z_util/utilNext.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-service/z_util/vrcrypto.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="platform-service-master.iws" />
@@ -55,6 +388,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="760">
               <caret line="366" column="21" selection-start-line="366" selection-start-column="21" selection-end-line="366" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -126,16 +469,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="register.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/register.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2622">
-              <caret line="138" column="8" selection-start-line="138" selection-start-column="8" selection-end-line="138" selection-end-column="74" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -155,6 +488,7 @@
         <option value="$PROJECT_DIR$/public/resources/ajax/user_edit.js" />
         <option value="$PROJECT_DIR$/z_configs/mysql.json" />
         <option value="$PROJECT_DIR$/z_controls/userControl.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -229,7 +563,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="z_controls" />
+              <option name="myItemId" value="z_util" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -243,7 +577,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="routes" />
+              <option name="myItemId" value="z_controls" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -337,16 +671,16 @@
       <workItem from="1477059207362" duration="690000" />
       <workItem from="1477200365740" duration="12630000" />
       <workItem from="1477222429577" duration="13000" />
-      <workItem from="1477282487978" duration="49000" />
+      <workItem from="1477282487978" duration="379000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13382000" />
+    <option name="totallyTimeSpent" value="13712000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="426" y="65" width="1936" height="1056" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960835" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -354,7 +688,7 @@
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -698,6 +1032,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="855">
           <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
