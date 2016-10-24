@@ -363,7 +363,8 @@ var notNeedVerifyUrl = [
     '/game/gameList',
     '/game/featureGames',
     '/user/login',
-    '/user/register'
+    '/user/register',
+    '/game/gameDetail'
 ]
 /**
  * 验证用户Token
